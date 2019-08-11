@@ -1,2 +1,2 @@
 # Traffic_Light_Controller
-A very basic finite state based traffic light controller verilog code.
+A finite state based traffic light controller verilog code.
